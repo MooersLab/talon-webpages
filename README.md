@@ -1,4 +1,4 @@
-# talon-webpages: Open favorite web pages by voice command.
+# talon-webpages: Open favorite web pages by voice command
 
 ## Purpose
 
