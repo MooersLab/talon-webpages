@@ -3,9 +3,12 @@
 ## Purpose
 
 The file *websites.talon* is provided to stimulate customization.
-Talon Voice In is a open source project that is wrapped with Python and that is highly customizable via either TalonScript or Python scripts.
 It is likely that you have different favorite websites.
 Adapt to suit your needs and interests.
+
+The file is run by the program Talon Voice.
+[Talon Voice](https://talonvoice.com/docs/index.html) is a open source project that is wrapped with Python and that is highly customizable via either TalonScript or Python scripts.
+
 
 ## Installation
 
