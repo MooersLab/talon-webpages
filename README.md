@@ -2,13 +2,20 @@
 
 ## Purpose
 
-The file `websites.talon` is provided to stimulate customization.
+The file *websites.talon* is provided to stimulate customization.
+Talon Voice In is a open source project that is wrapped with Python and that is highly customizable via either TalonScript or Python scripts.
+It is likely that you have different favorite websites.
+Adapt to suit your needs and interests.
 
 ## Installation
 
-Store *contractions.talon* inside `~/.talon/users/<whatever>/`.
+Store *websites.talon* inside `~/.talon/users/<whatever>/`.
 The subfolder <whatever> can have any name and is optional.
-Talon Voice will automatically detect this file and all others inside `~/.talon/users/` without restaring Talon Voice.
+Talon Voice will automatically detect this file and all others inside `~/.talon/users/` without restarting Talon Voice.
 
 You can add more contractions by using a text editor.
-The *contractions.talon* file is a plain text file written in TalonScript which is a subset of Python.
+The *websites.talon* file is a plain text file written in TalonScript, which is a subset of Python.
+
+## Operation
+
+The commands work only when the cursor is in inside a web browser, and the web browser is the current active application in the foreground of your desktop.
