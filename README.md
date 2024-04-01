@@ -9,7 +9,7 @@ You likely have different favorite websites.
 Adapt to suit your needs and interests.
 
 The file is run by the program Talon Voice.
-[Talon Voice](https://talonvoice.com/docs/index.html) is an open source project that is wrapped with Python and that is highly customizable via either TalonScript or Python scripts.
+[Talon Voice](https://talonvoice.com/docs/index.html) is an open-source project wrapped in Python that is highly customizable via TalonScript or Python scripts.
 
 ## Disclaimer
 This is a programming tool, not an educational tool.
