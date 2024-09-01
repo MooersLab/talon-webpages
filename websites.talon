@@ -6,6 +6,13 @@ tag: browser
 [open|add|edit] Voice In (commads|command): browser.go("chrome-extension://pjnefijmagpdjfhhkpljicbbpicelgko/settings.html#voice-commands")
 
 
+## bookstores
+
+[open] full circle books: browser.go("https://fullcirclebooks.com/")
+
+[open] amazon books: browser.go("https://www.amazon.com/books-used-books-textbooks")
+
+[open] google books: browser.go("https://books.google.com/")
 
 
 ## Clojure
@@ -54,6 +61,11 @@ tag: browser
 
 [open] Google scholar: browser.go("https://scholar.google.com/")
 
+[open] j store: browser.go("https://www.jstor.org/")
+
+[open] bio archive: browser.go("https://www.biorxiv.org/")
+
+[open] my google scholar profile: browser.go("https://scholar.google.com/citations?hl=en&user=ZReXIXoAAAAJ&view_op=list_works&sortby=pubdate")
 
 
 
