@@ -181,6 +181,12 @@ tag: browser
 
 
 
+## Talon related
+
+[open] talon dot com  [web page | web site]: browser.go("https://talonvoice.com/")
+
+[open] talon wiki [web page | web site]: browser.go("https://talon.wiki/")
+
 
 ## Upcoming talks:
 
@@ -190,7 +196,7 @@ tag: browser
 
 ## Weather
 
-[open] weather forecast: browser.go("https://www.wunderground.com/weather/us/ok/edmond/KOKEDMON131")
+[open] weather [forecast] [web page | web site]: browser.go("https://www.wunderground.com/weather/us/ok/edmond/KOKEDMON131")
 
 
 
