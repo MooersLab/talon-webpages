@@ -96,6 +96,12 @@ tag: browser
 [open] pymol wiki: browser.go("https://pymolwiki.org/index.php/Main_Page")
 
 
+## SSRL
+
+[open] ssrl user portal: browser.go("https://www-ssrl.slac.stanford.edu/URAWI/Login.html?method=welcome&facility=")
+
+
+
 ## structural databases
 
 [open] protein data bank: browser.go("https://www.rcsb.org/")
