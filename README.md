@@ -28,11 +28,11 @@ The commands work only when the cursor is inside a web browser, and the web brow
 
 ## Update history
 
-|Version      | Changes                                                                                                                                                                         | Date                 |
-|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
-| Version 0.2 |   Added badges, funding, and update table.                                                                                                                  | 2024 May 24         |
-
-
+|Version      | Changes                                                                                                      | Date                 |
+|:-----------:|:------------------------------------------------------------------------------------------------------------:|:--------------------:|
+| Version 0.1 | Initial commit. Added badges, funding, and update table.                                                     | 2023 November 26     |
+| Version 0.2 | Added a number of another set of webpages.                                                                   | 2024 September 1     |
+ 
 ## Sources of funding
 
 - NIH: R01 CA242845
