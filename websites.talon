@@ -84,15 +84,21 @@ tag: browser
 
 [open] (activity insight|faculty success): browser.go("https://www.digitalmeasures.com/login/ouhsc/faculty/authentication/showLogin.do?shce_test=1701009214384")
 
-[open] D2L: browser.go("https://learn.ouhsc.edu/d2l/loginh/?target=%2fd2l%2fhome%2f207297")
+[open] canvas [login | web page | web site] : browser.go("https://canvas.ou.edu/")
 
-[open] my faculty web page: browser.go("https://basicsciences.ouhsc.edu/bmb/Faculty/bio_details/mooers-blaine-hm-phd")
+[open] D2L [login | web page]: browser.go("https://learn.ouhsc.edu/d2l/loginh/?target=%2fd2l%2fhome%2f207297")
 
-[open] LBSF web page: browser.go("https://research.ouhsc.edu/research-support/core-laboratory-services/laboratory-of-biomolecular-structure-and-function")
+[open] my faculty [web page]: browser.go("https://medicine.ouhsc.edu/academic-departments/biochemistry-and-physiology/faculty/blaine-hm-mooers-phd")
 
-[open] OCSB web page: browser.go("https://www.ou.edu/structuralbiology")
+[open] my department's web [page | site]: browser.go("https://medicine.ouhsc.edu/academic-departments/biochemistry-and-physiology")
 
-[open] ORA web page:  browser.go("https://research.ouhsc.edu/ora/about-ora")
+[open] LBSF [web page]: browser.go("https://research.ouhsc.edu/research-support/core-laboratory-services/laboratory-of-biomolecular-structure-and-function")
+
+[open] OCSB [web page]: browser.go("https://www.ou.edu/structuralbiology")
+
+[open] ORA [web page]:  browser.go("https://research.ouhsc.edu/ora/about-ora")
+
+[open] sooner track [web page]: browser.go("https://selfservefs.ou.edu/psp/FSPRD/?cmd=login')
 
 [open] tal time: browser.go("https://ouhsc.ecotimebyhbs.com/EcotimeSSO/")
 
@@ -108,9 +114,8 @@ tag: browser
 [open] pymol wiki: browser.go("https://pymolwiki.org/index.php/Main_Page")
 
 
-## SSRL
 
-[open] ssrl user portal: browser.go("https://www-ssrl.slac.stanford.edu/URAWI/Login.html?method=welcome&facility=")
+
 
 
 
@@ -159,7 +164,7 @@ tag: browser
 
 [open] SSRL SAC [web page]:  browser.go("https://www-ssrl.slac.stanford.edu/content/about-ssrl/scientific-advisory-committee")
 
-
+[open [SSRL-LCLS]] user meeting agenda [web page]: browser.go("https://web.cvent.com/event/8c2bdf8d-08a1-41c5-b24e-390d039d9be2/websitePage:230dfbd2-f198-485d-a656-79b0717506bc")
 
 
 # Scientific computing meetings
