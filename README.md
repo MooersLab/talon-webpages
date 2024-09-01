@@ -26,6 +26,13 @@ The *websites.talon* file is a plain text file written in TalonScript, a Python 
 ## Operation
 The commands work only when the cursor is inside a web browser, and the web browser is the current active application in the foreground of your desktop.
 
+## Update history
+
+|Version      | Changes                                                                                                                                                                         | Date                 |
+|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
+| Version 0.2 |   Added badges, funding, and update table.                                                                                                                  | 2024 May 24         |
+
+
 ## Sources of funding
 
 - NIH: R01 CA242845
