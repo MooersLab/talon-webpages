@@ -44,7 +44,7 @@ tag: browser
 
 [open] sacha chua [web page]: browser.go("https://sachachua.com/blog/")
 
-[open] emacs wiki : browser.go("https://www.emacswiki.org/")
+[open] emacs wiki: browser.go("https://www.emacswiki.org/")
 
 
 
@@ -98,7 +98,9 @@ tag: browser
 
 [open] ORA [web page]:  browser.go("https://research.ouhsc.edu/ora/about-ora")
 
-[open] sooner track [web page]: browser.go("https://selfservefs.ou.edu/psp/FSPRD/?cmd=login')
+[open] OU software [web page | web site]: browser.go("https://itsoftware.ou.edu/jmp")
+
+[open] sooner track [web page]: browser.go("https://selfservefs.ou.edu/psp/FSPRD/?cmd=login")
 
 [open] tal time: browser.go("https://ouhsc.ecotimebyhbs.com/EcotimeSSO/")
 
