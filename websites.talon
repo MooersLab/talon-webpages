@@ -173,8 +173,8 @@ tag: browser
 
 ## Daily Writing
 [open] seven hundred fifty words: browser.go("https://750words.com/")
-
-
+[open] write honey: browser.go("https://app.writehoney.com/write")
+[open] right honey: browser.go("https://app.writehoney.com/write")
 
 
 ## Writing projects
